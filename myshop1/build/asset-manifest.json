@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49b99997.css",
+    "main.js": "/static/js/main.48615b74.js",
+    "static/media/cablesss.PNG": "/static/media/cablesss.d4f9f2940f6ff0282d73.PNG",
+    "static/media/panelbox.PNG": "/static/media/panelbox.0ee3b14bac971eefb901.PNG",
+    "static/media/mcb.PNG": "/static/media/mcb.cc1849c9b95ba1060239.PNG",
+    "static/media/installation.jpg": "/static/media/installation.dee25b9fb607f6db7f5b.jpg",
+    "static/media/svolt.PNG": "/static/media/svolt.adf6332e88695b87a86b.PNG",
+    "static/media/lightee.jpg": "/static/media/lightee.09240b907caaf20aa529.jpg",
+    "static/media/my_sgoop.jpg": "/static/media/my_sgoop.81b3a02258fa46b5e6af.jpg",
+    "static/media/logo333.png": "/static/media/logo333.eb8b371b58a7d988a713.png",
+    "static/media/shop.jpg": "/static/media/shop.14222210af590aacc66a.jpg",
+    "static/media/lights.jpg": "/static/media/lights.e6df5e8bc20f753020cc.jpg",
+    "static/media/my_pics.jpg": "/static/media/my_pics.8c11ee76af0af45ce6a8.jpg",
+    "index.html": "/index.html",
+    "main.49b99997.css.map": "/static/css/main.49b99997.css.map",
+    "main.48615b74.js.map": "/static/js/main.48615b74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49b99997.css",
+    "static/js/main.48615b74.js"
+  ]
+}
